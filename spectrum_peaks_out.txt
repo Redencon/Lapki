@@ -1,0 +1,2 @@
+line_wavenumber,1/cm intensity,a.u.
+
