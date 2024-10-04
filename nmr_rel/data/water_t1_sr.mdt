@@ -1,0 +1,30 @@
+------------------------
+
+T1 Curve Fit Results
+28.09.2024 11:18
+------------------------
+
+-----------------------------
+First Duration: 100.000 ms
+Last Duration : 15000.0 ms
+Data Points   : 15
+Dur. Factor   : 1.430
+Total Analysis: 4.73 min
+Del. Sam. Win.: 0.050 ms
+Sam. Window   : 0.020 ms
+Expon. Order  : 1
+Modifications : 0
+Data Storing  : 0
+-----------------------------
+
+------------------------
+Sample Number: 1  
+------------------------
+Amplitude  :    -72.5  %
+         +/-      0.1  %
+T1         :     2410 ms
+         +/-       10 ms
+Offset     :     71.3  %
+         +/-      0.1  %
+------------------------
+
